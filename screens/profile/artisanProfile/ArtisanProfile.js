@@ -9,8 +9,6 @@ import ArtisanProfileStyle from "./ArtisanProfileStyle";
 import HeartIcon from "../../../components/HeartIcon";
 
 const ArtisanProfile = () => {
-
-  
   return (
     <View style={ArtisanProfileStyle.container}>
       <View style={ArtisanProfileStyle.textWrapper}>
